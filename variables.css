@@ -1,0 +1,17 @@
+body{
+    --Colortext-grey:#707070;
+    --Colortext-grey-2:#484848;
+    --Colortext-white:white;
+}
+@font-face {
+    font-family: police_ifossa_regular;
+    src: url(./assets/polices/poppins/Poppins-Regular.otf);
+}
+@font-face {
+    font-family: police_ifossa_medium;
+    src: url(./assets/polices/poppins/Poppins-Medium.otf);
+}
+@font-face {
+    font-family: police_ifossa_ExtraBold;
+    src: url(./assets/polices/poppins/Poppins-ExtraBold.otf);
+}
